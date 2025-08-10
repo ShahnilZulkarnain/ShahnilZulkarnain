@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahnilZulkarnain
-- 👀 I’m a student of Dept. of Physics.
+- 👀 I’m a Physics Graduate.
 
 <!---
 ShahnilZulkarnain/ShahnilZulkarnain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
